@@ -1,0 +1,11 @@
+/* General testing styles */
+.row {
+    background-color: burlywood;
+    padding: 20px;
+}
+.col-md-6 {
+    border: 1px solid blue;
+}
+.col-md-4 {
+    border: 1px dotted yellow;
+}
